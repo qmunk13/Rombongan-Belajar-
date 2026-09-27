@@ -1,0 +1,10 @@
+{
+  "collections": {
+    "erp_data": {
+      "description": "Central collections for Rombel ERP tables, where each document ID corresponds to an ERP table name (e.g., 'siswa', 'users') and contains the full array of records.",
+      "fields": {
+        "data": "array"
+      }
+    }
+  }
+}
